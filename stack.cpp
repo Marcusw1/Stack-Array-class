@@ -1,4 +1,4 @@
-//Marcusw1
+//Author: Marcusw1
 
 #include "stack.h"
 
