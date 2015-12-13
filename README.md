@@ -1,2 +1,2 @@
 # stack-class
-implementation of basic stack
+array implementation of basic stack
