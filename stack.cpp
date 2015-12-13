@@ -2,7 +2,7 @@
 
 #include "stack.h"
 
-Stack::Stack(int stack_size{
+Stack::Stack(int stack_size){
   size = stack_size;
   the_stack = new int[size];
   next_empty_index = -1;
